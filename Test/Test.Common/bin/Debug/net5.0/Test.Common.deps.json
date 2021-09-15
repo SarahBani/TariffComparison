@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Test.Common/1.0.0": {
+        "dependencies": {
+          "TariffComparison": "1.0.0"
+        },
+        "runtime": {
+          "Test.Common.dll": {}
+        }
+      },
+      "TariffComparison/1.0.0": {
+        "runtime": {
+          "TariffComparison.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TariffComparison/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
